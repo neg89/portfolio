@@ -1,0 +1,11 @@
+.featured-item {
+	width: 33%;
+	display: inline-block;
+}
+#featured {
+	margin: 0 -15px;
+}
+#featured h2 {
+	text-align: left;
+	padding-left: 15px;
+}

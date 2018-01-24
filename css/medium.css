@@ -1,0 +1,18 @@
+#logo {
+	width: 33%;
+	max-width: 175px;
+	float: left;
+}
+
+#title-container {
+	max-width: 66%;
+	text-align: right;
+	float: right;
+	padding: 25px 0;
+	line-height: 1.4em;
+}
+
+.featured-item {
+	width: 75%;
+	padding: 0 15px;
+}
